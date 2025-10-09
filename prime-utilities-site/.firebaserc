@@ -1,5 +1,8 @@
 {
   "projects": {
-    "default": "primeutilities-c0a71"
-  }
+    "default": "primeutilities-c0a71",
+    "main": "primeutilities-c0a71"
+  },
+  "targets": {},
+  "etags": {}
 }
